@@ -120,7 +120,17 @@
     "openHouses": [
           {
           "description": "my open house",
-          "promoStartDate": "2026-02-11"
+          "promoStartDate": "2026-02-11",
+          "dates": [
+                  {
+                    "start": "YYYY-MM-DD H:i:s",
+                    "end": "YYYY-MM-DD H:i:s"
+                  },
+                  {
+                    "start": "YYYY-MM-DD H:i:s",
+                    "end": "YYYY-MM-DD H:i:s"
+                  }
+                ]
           }
     ]
   }
