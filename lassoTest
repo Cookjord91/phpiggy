@@ -119,7 +119,8 @@
     "Address1": "200 Falcon Dr.",
     "openHouses": [
           {
-          "description": "my open house"
+          "description": "my open house",
+          "promoStartDate": "2026-02-11"
           }
     ]
   }
