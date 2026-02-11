@@ -123,12 +123,12 @@
           "promoStartDate": "2026-02-11",
           "dates": [
                   {
-                    "start": "YYYY-MM-DD H:i:s",
-                    "end": "YYYY-MM-DD H:i:s"
+                    "start": "9:00 am",
+                    "end": "4:00 pm"
                   },
                   {
-                    "start": "YYYY-MM-DD H:i:s",
-                    "end": "YYYY-MM-DD H:i:s"
+                    "start": "6:00 pm",
+                    "end": "8:00 pm"
                   }
                 ]
           }
