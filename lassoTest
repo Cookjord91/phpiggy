@@ -120,13 +120,14 @@
     "openHouses": [
           {
           "description": "my open house",
-          "promoStartDate": "2026-02-11",
           "dates": [
                   {
+                    "promoStartDate": "2026-02-13",
                     "start": "9:00 am",
                     "end": "4:00 pm"
                   },
                   {
+                    "promoStartDate": "2026-02-16",
                     "start": "6:00 pm",
                     "end": "8:00 pm"
                   }
